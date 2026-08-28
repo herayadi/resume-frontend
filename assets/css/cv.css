@@ -1,0 +1,44 @@
+:root {
+  color: #202124;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 10.5pt;
+  line-height: 1.38;
+}
+
+* { box-sizing: border-box; }
+body { margin: 0; background: #e9ecef; }
+.cv-toolbar { position: sticky; top: 0; z-index: 2; display: flex; justify-content: center; gap: 12px; padding: 12px; background: #111; }
+.cv-toolbar a, .cv-toolbar button { border: 1px solid #18d26e; border-radius: 4px; padding: 8px 14px; color: #fff; background: transparent; text-decoration: none; cursor: pointer; }
+.cv-toolbar button { background: #18d26e; color: #082416; font-weight: 700; }
+.cv-document { width: 210mm; min-height: 297mm; margin: 18px auto; padding: 15mm 16mm; background: #fff; box-shadow: 0 2px 18px rgba(0, 0, 0, .14); }
+.cv-header { padding-bottom: 8px; border-bottom: 2px solid #1d6641; text-align: center; }
+.cv-header h1 { margin: 0; font-size: 24pt; letter-spacing: .02em; text-transform: uppercase; }
+.cv-role { margin: 3px 0; font-size: 13pt; font-weight: 700; color: #1d6641; }
+.cv-contact { margin: 4px 0 0; font-size: 9pt; overflow-wrap: anywhere; }
+.cv-section { margin-top: 12px; }
+.cv-section > h2 { margin: 0 0 6px; padding-bottom: 3px; border-bottom: 1px solid #777; font-size: 12pt; letter-spacing: .06em; text-transform: uppercase; }
+.cv-section p { margin: 4px 0; }
+.cv-item { margin: 0 0 10px; break-inside: avoid-page; page-break-inside: avoid; }
+.cv-title-row { display: flex; align-items: baseline; justify-content: space-between; gap: 14px; }
+.cv-title-row h3 { margin: 0; font-size: 10.5pt; }
+.cv-title-row span { flex: 0 0 auto; font-size: 9.5pt; font-weight: 700; }
+.cv-company { font-style: italic; }
+.cv-item ul { margin: 5px 0 0; padding-left: 19px; }
+.cv-item li { margin-bottom: 3px; }
+.cv-loading, .cv-error { text-align: center; }
+
+@page { size: A4; margin: 12mm 14mm; }
+@media print {
+  :root { font-size: 9.5pt; }
+  body { background: #fff; }
+  .cv-toolbar { display: none; }
+  .cv-document { width: auto; min-height: 0; margin: 0; padding: 0; box-shadow: none; }
+  .cv-header h1 { font-size: 21pt; }
+  .cv-section { margin-top: 9px; }
+  .cv-item { margin-bottom: 7px; }
+}
+
+@media screen and (max-width: 850px) {
+  .cv-document { width: calc(100% - 20px); min-height: auto; margin: 10px; padding: 24px 20px; }
+  .cv-title-row { align-items: flex-start; flex-direction: column; gap: 1px; }
+}

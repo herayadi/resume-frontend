@@ -1,0 +1,13 @@
+{
+  "name": "regina-resume-frontend",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "generate:fallback": "node scripts/generate-fallback.mjs",
+    "verify": "node scripts/verify-static.mjs",
+    "serve": "python3 -m http.server 8080"
+  },
+  "engines": {
+    "node": ">=22.5.0"
+  }
+}

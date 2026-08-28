@@ -1,0 +1,369 @@
+{
+  "profile": {
+    "id": "legacy-profile-1",
+    "name": "Regina Septianadrah",
+    "role": "BIM Modeler",
+    "phone": "(62)81295656710",
+    "dateOfBirth": "06/09/1996",
+    "website": "reginaseptianadrah.great-site.net",
+    "city": "Jakarta Selatan, DKI Jakarta, Indonesia",
+    "summaryEn": "Highly skilled Structural Drafter with over nine years of experience in the architecture, engineering, and construction industry, specializing in Revit, AutoCAD, and advanced Point Cloud integration to deliver precise, compliant structural models and drawings. Adept at collaborating directly with BIM leadership, meeting tight deadlines, and adapting to evolving design requirements across both local and international projects.",
+    "summaryId": null,
+    "bioEn": "I am a dedicated Structural Drafter with over nine years of experience in the architecture, engineering, and construction industry. I leverage Revit, AutoCAD, and point-cloud data to deliver precise, efficient, and code-compliant structural models and drawings. I work across commercial, industrial, and infrastructure projects while reporting directly to BIM leadership.",
+    "bioId": null,
+    "aboutIntro": "An Experienced Structural Drafter delivering high-precision structural design solutions",
+    "resumeIntro": "Results-oriented Structural Drafter skilled in translating complex engineering requirements into buildable Revit and AutoCAD designs, backed by advanced Point Cloud integration. Adept at maintaining compliance with industry standards, optimizing workflows, and supporting multidisciplinary teams on both local and international assignments.",
+    "footerTagline": "An Experienced Structural Drafter delivering high-precision structural design solutions",
+    "avatarUrl": "assets/img/regina-profile-img.jpg",
+    "cvUrl": "assets/resume/Regina-Resume.pdf"
+  },
+  "socialLinks": [
+    {
+      "id": "legacy-social-1",
+      "type": "email",
+      "label": "ekaregina846@gmail.com",
+      "href": "ekaregina846@gmail.com",
+      "icon": "bi bi-envelope"
+    },
+    {
+      "id": "legacy-social-2",
+      "type": "linkedin",
+      "label": "Regina Septianadrah",
+      "href": "https://www.linkedin.com/in/regina-septianad/",
+      "icon": "bi bi-linkedin"
+    }
+  ],
+  "skills": [
+    {
+      "id": "legacy-skill-1",
+      "name": "Revit",
+      "percentage": 90
+    },
+    {
+      "id": "legacy-skill-2",
+      "name": "AutoCAD",
+      "percentage": 95
+    },
+    {
+      "id": "legacy-skill-3",
+      "name": "Point Cloud Modeling",
+      "percentage": 85
+    },
+    {
+      "id": "legacy-skill-4",
+      "name": "Structural Drafting",
+      "percentage": 90
+    },
+    {
+      "id": "legacy-skill-5",
+      "name": "Naviswork",
+      "percentage": 85
+    },
+    {
+      "id": "legacy-skill-6",
+      "name": "IDEA Statica",
+      "percentage": 80
+    },
+    {
+      "id": "legacy-skill-7",
+      "name": "Enscape 3D View",
+      "percentage": 50
+    }
+  ],
+  "education": [
+    {
+      "id": "legacy-education-1",
+      "degree": "Bachelor of Structural",
+      "shortDegree": "Bachelor",
+      "school": "Mercu Buana University",
+      "thesis": "Redesign of a Ten-Story Hotel Utilizing Steel Structure in Compliance with SNI 1729:2020 and SNI 1726:2019",
+      "startYear": "2017",
+      "endYear": "2022"
+    },
+    {
+      "id": "legacy-education-2",
+      "degree": "High School Graduate",
+      "shortDegree": "High",
+      "school": "SMK Negeri 1 Rembang",
+      "thesis": "Building Design and Drafting",
+      "startYear": "2012",
+      "endYear": "2015"
+    }
+  ],
+  "experiences": [
+    {
+      "id": "legacy-experience-1",
+      "company": "PT. Meinhardt Indonesia",
+      "role": "BIM Modeler",
+      "location": "Jakarta, Indonesia",
+      "startDate": "Mar 2025",
+      "endDate": "Present",
+      "isCurrent": true,
+      "description": null,
+      "projects": [
+        {
+          "id": "legacy-project-1",
+          "projectLocation": "Hotel Mandarin – Bali",
+          "startDate": null,
+          "endDate": null,
+          "description": "Produced comprehensive structural drawings and reinforcement details in alignment with architectural and engineering specifications. Ensured precision in documentation to support high-end construction standards."
+        },
+        {
+          "id": "legacy-project-2",
+          "projectLocation": "BFB Fitness Hotel – Bali",
+          "startDate": null,
+          "endDate": null,
+          "description": "Developed detailed structural layouts and sectional views, coordinating closely with structural engineers throughout design and construction phases. Assisted in on-site revisions and drawing updates to reflect real-time changes and ensure structural integrity."
+        },
+        {
+          "id": "legacy-project-3",
+          "projectLocation": "Data Center Project – Early Phase",
+          "startDate": null,
+          "endDate": null,
+          "description": "Initiated structural drafting for foundational systems, focusing on load-bearing elements and spatial planning. Contributed to early-stage documentation to support feasibility analysis and engineering review."
+        }
+      ]
+    },
+    {
+      "id": "legacy-experience-2",
+      "company": "PT. Beca Indonesia",
+      "role": "Structural Drafter",
+      "location": "Jakarta, Indonesia",
+      "startDate": "Jan 2021",
+      "endDate": "Feb 2025",
+      "isCurrent": false,
+      "description": null,
+      "projects": [
+        {
+          "id": "legacy-project-4",
+          "projectLocation": "Pondok Indah Mall Renovation",
+          "startDate": "Oct 2024",
+          "endDate": "Dec 2024",
+          "description": "Led Revit-based structural modeling for bridge and escalator refurbishment, ensuring alignment with renovation specifications."
+        },
+        {
+          "id": "legacy-project-5",
+          "projectLocation": "Data Centre – JKT02",
+          "startDate": "Aug 2024",
+          "endDate": "Oct 2024",
+          "description": "Delivered precise Revit structural models tailored to high-security data center requirements, facilitating engineering reviews."
+        },
+        {
+          "id": "legacy-project-6",
+          "projectLocation": "NCG Groningen EQ Assessments",
+          "startDate": "Jul 2023",
+          "endDate": "Jun 2024",
+          "description": "Integrated Revit modeling with point cloud data to enhance structural evaluation accuracy and reporting."
+        },
+        {
+          "id": "legacy-project-7",
+          "projectLocation": "Ashburton Intermediate",
+          "startDate": "Jun 2023",
+          "endDate": "Jul 2023",
+          "description": "Developed comprehensive Revit structural models for educational facility upgrades, optimizing spatial layouts."
+        },
+        {
+          "id": "legacy-project-8",
+          "projectLocation": "Elermore Vale",
+          "startDate": "Jun 2023",
+          "endDate": "Jun 2023",
+          "description": "Provided efficient Revit drafting and modeling solutions to support project timelines and design precision."
+        },
+        {
+          "id": "legacy-project-9",
+          "projectLocation": "Burwood",
+          "startDate": "May 2023",
+          "endDate": "May 2023",
+          "description": "Fused point cloud scans with Revit models to improve structural design accuracy and detailing."
+        },
+        {
+          "id": "legacy-project-10",
+          "projectLocation": "Devonport Naval Base Cranes Works",
+          "startDate": "Dec 2022",
+          "endDate": "Dec 2022",
+          "description": "Generated precise Revit structural plans and models for crane installations, ensuring safety and compliance."
+        },
+        {
+          "id": "legacy-project-11",
+          "projectLocation": "FFI Juno Chemical Tank Canopy",
+          "startDate": "Dec 2022",
+          "endDate": "Dec 2022",
+          "description": "Engineered detailed Revit models for complex industrial chemical tank canopy structures, addressing load requirements."
+        },
+        {
+          "id": "legacy-project-12",
+          "projectLocation": "Southland School Projects",
+          "startDate": "Aug 2022",
+          "endDate": "Apr 2023",
+          "description": "Managed drafting workflows fo r multiple educational infrastructure upgrades, maintaining consistency and quality."
+        },
+        {
+          "id": "legacy-project-13",
+          "projectLocation": "Countdown Blenheim Seismic Update",
+          "startDate": "Jul 2022",
+          "endDate": "Sep 2022",
+          "description": "Produced Revit-based structural updates to ensure seismic safety compliance, coordinating with engineering teams."
+        },
+        {
+          "id": "legacy-project-14",
+          "projectLocation": "Islington Reactor Foundation",
+          "startDate": "May 2022",
+          "endDate": "Jul 2022",
+          "description": "Developed structural foundation models for energy infrastructure projects, focusing on load analysis and standards."
+        },
+        {
+          "id": "legacy-project-15",
+          "projectLocation": "Huntingwood WTP Civil Works",
+          "startDate": "Apr 2022",
+          "endDate": "Apr 2022",
+          "description": "Contributed detailed Revit structural models to civil works design, enhancing coordination with multi-disciplinary teams."
+        },
+        {
+          "id": "legacy-project-16",
+          "projectLocation": "Boneo – Package 4",
+          "startDate": "Feb 2022",
+          "endDate": "Apr 2022",
+          "description": "Prepared high-quality Revit drawings for infrastructure enhancements, ensuring accuracy and detail control."
+        },
+        {
+          "id": "legacy-project-17",
+          "projectLocation": "Puri Indah Mall (East Entrance)",
+          "startDate": "Feb 2022",
+          "endDate": "Feb 2022",
+          "description": "Produced work-in-progress structural drawings for east entrance redesign, facilitating stakeholder reviews."
+        },
+        {
+          "id": "legacy-project-18",
+          "projectLocation": "FFI Juno Pipe Rack and Platform",
+          "startDate": "Jan 2022",
+          "endDate": "Feb 2022",
+          "description": "Created precise Revit structural models for industrial pipe rack and platform frameworks, meeting design specifications."
+        },
+        {
+          "id": "legacy-project-19",
+          "projectLocation": "500kV CT Structure EPCI",
+          "startDate": "Jan 2021",
+          "endDate": "Dec 2021",
+          "description": "Drafted intricate CAD structural models for high-voltage 500kV CT installations, ensuring EPCI compliance."
+        },
+        {
+          "id": "legacy-project-20",
+          "projectLocation": "Digital Realty (Data Centre Solutions)",
+          "startDate": "Jun 2021",
+          "endDate": "Sep 2021",
+          "description": "Constructed robust Revit structural models for data center installations, supporting installation planning."
+        },
+        {
+          "id": "legacy-project-21",
+          "projectLocation": "Waiora WTP Building",
+          "startDate": "May 2021",
+          "endDate": "Jun 2021",
+          "description": "Integrated point cloud data into Revit models to inform structural design of wastewater treatment facilities."
+        },
+        {
+          "id": "legacy-project-22",
+          "projectLocation": "FFI Pasar Rebo & Juno EPCM",
+          "startDate": "Feb 2021",
+          "endDate": "Apr 2021",
+          "description": "Provided Revit modeling support for dairy product facility design under EPCM, ensuring structural accuracy."
+        },
+        {
+          "id": "legacy-project-23",
+          "projectLocation": "Pokenohe WWTP Upgrade",
+          "startDate": "Jan 2021",
+          "endDate": "Feb 2021",
+          "description": "Delivered detailed Revit structural drafts to optimize wastewater treatment plant upgrade design."
+        }
+      ]
+    },
+    {
+      "id": "legacy-experience-3",
+      "company": "PT. Sinar Surya Alumindo",
+      "role": "Drafter Facade",
+      "location": "Tangerang, Indonesia",
+      "startDate": "Dec 2015",
+      "endDate": "Dec 2020",
+      "isCurrent": false,
+      "description": null,
+      "projects": [
+        {
+          "id": "legacy-project-24",
+          "projectLocation": "PT. Adhi Persada Gedung | Platinum Hotel – Surabaya",
+          "startDate": null,
+          "endDate": null,
+          "description": "Engineered aluminum composite panel systems and curtainwall assemblies for the hotel facade, optimizing structural performance and aesthetics."
+        },
+        {
+          "id": "legacy-project-25",
+          "projectLocation": "PT. Wika Gedung | Embarcadero Apartment – Bintaro",
+          "startDate": null,
+          "endDate": null,
+          "description": "Designed aluminum frame doors, windows, and composite panel solutions, ensuring weatherproofing and compliance with architectural standards."
+        },
+        {
+          "id": "legacy-project-26",
+          "projectLocation": "PT. Adhi Persada Gedung | Transmart – Solo",
+          "startDate": null,
+          "endDate": null,
+          "description": "Developed aluminum frame doors, windows, composite panels, and curtainwall layouts to enhance building envelope efficiency and visual coherence."
+        },
+        {
+          "id": "legacy-project-27",
+          "projectLocation": "PT. Jaya Konstruksi | DKI Jakarta School",
+          "startDate": null,
+          "endDate": null,
+          "description": "Designed aluminum-framed doors and windows for educational facilities, focusing on security, durability, and energy performance."
+        },
+        {
+          "id": "legacy-project-28",
+          "projectLocation": "PT. Adhi Persada Gedung | Cinere Resort Apartment – Depok",
+          "startDate": null,
+          "endDate": null,
+          "description": "Created aluminum frame door, window, and composite panel designs that aligned with resort aesthetics and performance requirements."
+        },
+        {
+          "id": "legacy-project-29",
+          "projectLocation": "PT. Adhi Persada Properti | Taman Melati Apartment – Jogjakarta",
+          "startDate": null,
+          "endDate": null,
+          "description": "Drafted aluminum frame door and window specifications to streamline fabrication and installation processes."
+        },
+        {
+          "id": "legacy-project-30",
+          "projectLocation": "PT. Wijaya Karya Tbk | PLBN Aruk – Kalimantan Tengah",
+          "startDate": null,
+          "endDate": null,
+          "description": "Engineered aluminum frame doors, windows, and composite panel systems for a border facility, meeting strict security and durability standards."
+        },
+        {
+          "id": "legacy-project-31",
+          "projectLocation": "PT. Adhi Karya Tbk | Grand Dhika Apartment – Jatiwarna, Bekasi",
+          "startDate": null,
+          "endDate": null,
+          "description": "Designed aluminum frame doors, windows, and composite panel assemblies, ensuring residential-quality finishes and compliance."
+        },
+        {
+          "id": "legacy-project-32",
+          "projectLocation": "PT. Adhi Karya Tbk | Akasa Apartment – Serpong",
+          "startDate": null,
+          "endDate": null,
+          "description": "Developed aluminum frame doors, windows, and curtainwall configurations to achieve a contemporary facade aesthetic."
+        },
+        {
+          "id": "legacy-project-33",
+          "projectLocation": "PT. Adhi Karya Tbk | Hasanuddin University – Makasar",
+          "startDate": null,
+          "endDate": null,
+          "description": "Designed aluminum-framed doors and windows for university buildings, balancing functional requirements with campus design guidelines."
+        },
+        {
+          "id": "legacy-project-34",
+          "projectLocation": "PT. PP Property Tbk | Grand Kamala Lagoon Apartment – Bekasi",
+          "startDate": null,
+          "endDate": null,
+          "description": "Produced aluminum composite panel designs for the apartment exterior, optimizing durability and finish quality."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+.btn-primary {
+  --bs-btn-bg: var(--accent-color);
+  --bs-btn-border-color: var(--accent-color);
+  --bs-btn-hover-bg: color-mix(in srgb, var(--accent-color), transparent 15%);
+  --bs-btn-hover-border-color: var(--accent-color);
+  margin-left: 12px;
+}
+
+.hero .social-links .btn {
+  width: auto;
+  height: auto;
+  border-radius: 4px;
+  padding: 6px 12px;
+  font-size: 14px;
+}
+
+.hero .social-links .btn i {
+  margin-right: 5px;
+}
+
+.img-rounded {
+  border-radius: 8px;
+}
+
+.resume .resume-item > p:first-of-type em {
+  color: color-mix(in srgb, var(--default-color), transparent 18%);
+}
+
+.php-email-form button:disabled {
+  cursor: not-allowed;
+  opacity: .7;
+}
+
+@media (max-width: 575px) {
+  .hero .social-links .btn {
+    display: inline-flex;
+    margin: 14px 0 0;
+  }
+}
